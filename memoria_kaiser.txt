@@ -1,0 +1,2 @@
+nome_usuario=Madu
+gosto=e pizza
